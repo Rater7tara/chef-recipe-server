@@ -1,7 +1,7 @@
-{
-    "IndianChef1": {
-        "id": "INC001",
-        "picture": "https://example.com/indianchef1.jpg",
+[
+    {
+        "id": "1",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR797VFmtg0oCXhZMbDHVe4XNQ104MHYjLnzw&usqp=CAU",
         "name": "Sanjeev Kapoor",
         "years_of_experience": 40,
         "num_recipes": 800,
@@ -52,9 +52,9 @@
             }
         ]
     },
-    "IndianChef2": {
-        "id": "INC002",
-        "picture": "https://example.com/indianchef2.jpg",
+    {
+        "id": "2",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfMRnjhsUlb7nMziBRxnlIRejWgmAhLhGSGg&usqp=CAU",
         "name": "Vikas Khanna",
         "years_of_experience": 20,
         "num_recipes": 500,
@@ -105,9 +105,9 @@
             }
         ]
     },
-    "IndianChef3": {
-        "id": "INC003",
-        "picture": "https://example.com/indianchef3.jpg",
+    {
+        "id": "3",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyr3fuk4XVknlv_Ubnw16mG89G78Uvzi2WtA&usqp=CAU",
         "name": "Ranveer Brar",
         "years_of_experience": 15,
         "num_recipes": 400,
@@ -158,9 +158,9 @@
             }
         ]
     },
-    "IndianChef4": {
-        "id": "INC004",
-        "picture": "https://example.com/indianchef4.jpg",
+    {
+        "id": "4",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXHf__0iMxDJIzRBUq_bkhfZl0nwVO6yEA8g&usqp=CAU",
         "name": "Tarla Dalal",
         "years_of_experience": 30,
         "num_recipes": 600,
@@ -211,9 +211,9 @@
             }
         ]
     },
-    "IndianChef5": {
-        "id": "INC005",
-        "picture": "https://example.com/chef9.jpg",
+    {
+        "id": "5",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4YToyEAaPr7bGIAuytzufsyXjzdLX69rGFA&usqp=CAU",
         "name": "Ritu Dalmia",
         "years_of_experience": 20,
         "likes": 8000,
@@ -263,9 +263,9 @@
             }
         ]
     },
-    "IndianChef6": {
-        "id": "INC006",
-        "picture": "https://example.com/indianchef6.jpg",
+    {
+        "id": "6",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSBLZrdLYWS0nm5CVmiFfggMD-Hn_yeQdkVg&usqp=CAU",
         "name": "Madhur Jaffrey",
         "years_of_experience": 40,
         "num_recipes": 800,
@@ -316,4 +316,4 @@
             }
         ]
     }
-}
+]
