@@ -1,0 +1,319 @@
+{
+    "IndianChef1": {
+        "id": "INC001",
+        "picture": "https://example.com/indianchef1.jpg",
+        "name": "Sanjeev Kapoor",
+        "years_of_experience": 40,
+        "num_recipes": 800,
+        "likes": 20000,
+        "bio": "Sanjeev Kapoor is a famous Indian celebrity chef, entrepreneur and television personality. He is widely known as the 'Chef of the Nation'.",
+        "recipes": [
+            {
+                "recipe_id": "INC001-R001",
+                "name": "Butter Chicken",
+                "picture": "https://example.com/butterchicken.jpg",
+                "ingredients": [
+                    "chicken",
+                    "yogurt",
+                    "tomatoes",
+                    "spices",
+                    "cream"
+                ],
+                "cooking_method": "Marinate chicken in yogurt and spices, grill or bake it, and then simmer it in tomato gravy with butter and cream.",
+                "rating": 4.5
+            },
+            {
+                "recipe_id": "INC001-R002",
+                "name": "Palak Paneer",
+                "picture": "https://example.com/palakpaneer.jpg",
+                "ingredients": [
+                    "spinach",
+                    "paneer",
+                    "onion",
+                    "tomatoes",
+                    "spices"
+                ],
+                "cooking_method": "Blanch spinach, puree it with onion and tomato, and cook it with paneer and spices.",
+                "rating": 4.2
+            },
+            {
+                "recipe_id": "INC001-R003",
+                "name": "Chaat",
+                "picture": "https://example.com/chaat.jpg",
+                "ingredients": [
+                    "potatoes",
+                    "chickpeas",
+                    "tamarind chutney",
+                    "yogurt",
+                    "spices"
+                ],
+                "cooking_method": "Boil potatoes and chickpeas, add tamarind chutney, yogurt and spices, and serve as a salad or snack.",
+                "rating": 4.0
+            }
+        ]
+    },
+    "IndianChef2": {
+        "id": "INC002",
+        "picture": "https://example.com/indianchef2.jpg",
+        "name": "Vikas Khanna",
+        "years_of_experience": 20,
+        "num_recipes": 500,
+        "likes": 15000,
+        "bio": "Vikas Khanna is an Indian Michelin starred chef, restaurateur, cookbook writer, and filmmaker. He is one of the most influential chefs in the world.",
+        "recipes": [
+            {
+                "recipe_id": "INC002-R001",
+                "name": "Tandoori Chicken",
+                "picture": "https://example.com/tandoorichicken.jpg",
+                "ingredients": [
+                    "chicken",
+                    "yogurt",
+                    "ginger-garlic paste",
+                    "spices",
+                    "lemon juice"
+                ],
+                "cooking_method": "Marinate chicken in yogurt, ginger-garlic paste, spices, and lemon juice. Grill or bake it in a tandoor oven.",
+                "rating": 4.3
+            },
+            {
+                "recipe_id": "INC002-R002",
+                "name": "Dal Makhani",
+                "picture": "https://example.com/dalmakhani.jpg",
+                "ingredients": [
+                    "black lentils",
+                    "red kidney beans",
+                    "butter",
+                    "cream",
+                    "spices"
+                ],
+                "cooking_method": "Boil black lentils and red kidney beans, simmerthem in tomato gravy with butter, cream, and spices, and serve with rice or naan bread.",
+                "rating": 4.1
+            },
+            {
+                "recipe_id": "INC002-R003",
+                "name": "Samosas",
+                "picture": "https://example.com/samosas.jpg",
+                "ingredients": [
+                    "potatoes",
+                    "peas",
+                    "spices",
+                    "flour",
+                    "oil"
+                ],
+                "cooking_method": "Make a dough with flour and water, fill it with a mixture of mashed potatoes, peas, and spices, and deep-fry until crispy.",
+                "rating": 4.0
+            }
+        ]
+    },
+    "IndianChef3": {
+        "id": "INC003",
+        "picture": "https://example.com/indianchef3.jpg",
+        "name": "Ranveer Brar",
+        "years_of_experience": 15,
+        "num_recipes": 400,
+        "likes": 12000,
+        "bio": "Ranveer Brar is a well-known Indian chef, television personality, and author. He is widely recognized for his culinary skills and innovative recipes.",
+        "recipes": [
+            {
+                "recipe_id": "INC003-R001",
+                "name": "Chicken Biryani",
+                "picture": "https://example.com/chickenbiryani.jpg",
+                "ingredients": [
+                    "chicken",
+                    "basmati rice",
+                    "spices",
+                    "yogurt",
+                    "onions"
+                ],
+                "cooking_method": "Marinate chicken in yogurt and spices, and then cook it with basmati rice and fried onions in a sealed pot.",
+                "rating": 4.2
+            },
+            {
+                "recipe_id": "INC003-R002",
+                "name": "Aloo Gobi",
+                "picture": "https://example.com/aloogobi.jpg",
+                "ingredients": [
+                    "potatoes",
+                    "cauliflower",
+                    "onions",
+                    "tomatoes",
+                    "spices"
+                ],
+                "cooking_method": "Saute potatoes, cauliflower, onions, and tomatoes with spices until tender.",
+                "rating": 4.0
+            },
+            {
+                "recipe_id": "INC003-R003",
+                "name": "Gulab Jamun",
+                "picture": "https://example.com/gulabjamun.jpg",
+                "ingredients": [
+                    "milk powder",
+                    "flour",
+                    "sugar",
+                    "cardamom",
+                    "rose water"
+                ],
+                "cooking_method": "Make a dough with milk powder, flour, and water, shape it into balls, deep-fry, and then soak in sugar syrup with cardamom and rose water.",
+                "rating": 4.1
+            }
+        ]
+    },
+    "IndianChef4": {
+        "id": "INC004",
+        "picture": "https://example.com/indianchef4.jpg",
+        "name": "Tarla Dalal",
+        "years_of_experience": 30,
+        "num_recipes": 600,
+        "likes": 18000,
+        "bio": "Tarla Dalal was a well-known Indian vegetarian cookbook author and chef. She is widely known for her innovative vegetarian recipes.",
+        "recipes": [
+            {
+                "recipe_id": "INC004-R001",
+                "name": "Paneer Tikka",
+                "picture": "https://example.com/paneertikka.jpg",
+                "ingredients": [
+                    "paneer",
+                    "bell peppers",
+                    "onions",
+                    "spices",
+                    "yogurt"
+                ],
+                "cooking_method": "Marinate paneer, bell peppers, and onions in yogurt and spicesand grill until cooked through.",
+                "rating": 4.3
+            },
+            {
+                "recipe_id": "INC004-R002",
+                "name": "Aloo Paratha",
+                "picture": "https://example.com/alooparatha.jpg",
+                "ingredients": [
+                    "potatoes",
+                    "flour",
+                    "spices",
+                    "butter",
+                    "oil"
+                ],
+                "cooking_method": "Make a dough with flour and water, fill it with mashed potatoes and spices, and then cook on a griddle with butter and oil.",
+                "rating": 4.1
+            },
+            {
+                "recipe_id": "INC004-R003",
+                "name": "Chana Masala",
+                "picture": "https://example.com/chanamasala.jpg",
+                "ingredients": [
+                    "chickpeas",
+                    "tomatoes",
+                    "onions",
+                    "spices",
+                    "oil"
+                ],
+                "cooking_method": "Saute onions and spices, add chickpeas and tomatoes, and cook until thickened.",
+                "rating": 4.2
+            }
+        ]
+    },
+    "IndianChef5": {
+        "id": "INC005",
+        "picture": "https://example.com/chef9.jpg",
+        "name": "Ritu Dalmia",
+        "years_of_experience": 20,
+        "likes": 8000,
+        "bio": "Ritu Dalmia is a renowned chef, restaurateur, and cookbook author. She is the owner of several successful restaurants in India, and has been awarded the Order of the Star of Italian Solidarity by the Italian government for her contributions to promoting Italian cuisine in India. She is also an advocate for sustainable food practices.",
+        "recipes": [
+            {
+                "recipe_id": "INC009-R001",
+                "name": "Dal Makhani",
+                "picture": "https://example.com/dalmakhani.jpg",
+                "ingredients": [
+                    "black lentils",
+                    "red kidney beans",
+                    "tomatoes",
+                    "cream",
+                    "spices"
+                ],
+                "cooking_method": "Soak lentils and kidney beans, and then cook with tomatoes and spices until soft. Finish with cream.",
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "INC009-R002",
+                "name": "Baingan Bharta",
+                "picture": "https://example.com/bainganbharta.jpg",
+                "ingredients": [
+                    "eggplant",
+                    "tomatoes",
+                    "onions",
+                    "spices",
+                    "coriander"
+                ],
+                "cooking_method": "Roast eggplant, and then cook with tomatoes and onions until soft. Add spices and coriander.",
+                "rating": 4.2
+            },
+            {
+                "recipe_id": "INC009-R003",
+                "name": "Tiramisu",
+                "picture": "https://example.com/tiramisu.jpg",
+                "ingredients": [
+                    "ladyfingers",
+                    "espresso",
+                    "mascarpone",
+                    "sugar",
+                    "cocoa powder"
+                ],
+                "cooking_method": "Dip ladyfingers in espresso, and then layer with a mixture of mascarpone and sugar. Finish with cocoa powder.",
+                "rating": 4.6
+            }
+        ]
+    },
+    "IndianChef6": {
+        "id": "INC006",
+        "picture": "https://example.com/indianchef6.jpg",
+        "name": "Madhur Jaffrey",
+        "years_of_experience": 40,
+        "num_recipes": 800,
+        "likes": 25000,
+        "bio": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She is widely known for her cookbooks anddocumentaries on Indian cuisine.",
+        "recipes": [
+            {
+                "recipe_id": "INC006-R001",
+                "name": "Chicken Tikka Masala",
+                "picture": "https://example.com/chickentikkamasala.jpg",
+                "ingredients": [
+                    "chicken",
+                    "yogurt",
+                    "spices",
+                    "tomatoes",
+                    "cream"
+                ],
+                "cooking_method": "Marinate chicken in yogurt and spices, grill or bake, and then add to a tomato cream sauce.",
+                "rating": 4.4
+            },
+            {
+                "recipe_id": "INC006-R002",
+                "name": "Vegetable Biryani",
+                "picture": "https://example.com/vegetablebiryani.jpg",
+                "ingredients": [
+                    "rice",
+                    "vegetables",
+                    "spices",
+                    "yogurt",
+                    "onions"
+                ],
+                "cooking_method": "Cook rice with vegetables, spices, and yogurt, and then layer with fried onions.",
+                "rating": 4.1
+            },
+            {
+                "recipe_id": "INC006-R003",
+                "name": "Gulab Jamun",
+                "picture": "https://example.com/gulabjamun.jpg",
+                "ingredients": [
+                    "milk powder",
+                    "flour",
+                    "sugar",
+                    "cardamom",
+                    "saffron"
+                ],
+                "cooking_method": "Mix milk powder, flour, and water into a dough, form into balls, and then fry. Soak in a cardamom and saffron flavored syrup.",
+                "rating": 4.3
+            }
+        ]
+    }
+}
