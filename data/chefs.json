@@ -11,13 +11,13 @@
             {
                 "recipe_id": "INC001-R001",
                 "name": "Butter Chicken",
-                "picture": "https://example.com/butterchicken.jpg",
+                "picture": "https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine_2829-4415.jpg?size=626&ext=jpg&uid=R101399449&ga=GA1.1.205563488.1680186315&semt=robertav1_2_sidr",
                 "ingredients": [
-                    "chicken",
-                    "yogurt",
-                    "tomatoes",
-                    "spices",
-                    "cream"
+                    "1.chicken ",
+                    "2.yogurt ",
+                    "3.tomatoes ",
+                    "4.spices ",
+                    "5.cream "
                 ],
                 "cooking_method": "Marinate chicken in yogurt and spices, grill or bake it, and then simmer it in tomato gravy with butter and cream.",
                 "rating": 4.5
@@ -25,13 +25,13 @@
             {
                 "recipe_id": "INC001-R002",
                 "name": "Palak Paneer",
-                "picture": "https://example.com/palakpaneer.jpg",
+                "picture": "https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?size=626&ext=jpg&uid=R101399449&ga=GA1.1.205563488.1680186315&semt=robertav1_2_sidr",
                 "ingredients": [
-                    "spinach",
-                    "paneer",
-                    "onion",
-                    "tomatoes",
-                    "spices"
+                    "1.spinach ",
+                    "2.paneer ",
+                    "3.onion ",
+                    "4.tomatoes ",
+                    "5.spices "
                 ],
                 "cooking_method": "Blanch spinach, puree it with onion and tomato, and cook it with paneer and spices.",
                 "rating": 4.2
@@ -39,13 +39,13 @@
             {
                 "recipe_id": "INC001-R003",
                 "name": "Chaat",
-                "picture": "https://example.com/chaat.jpg",
+                "picture": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?size=626&ext=jpg&uid=R101399449&ga=GA1.2.205563488.1680186315&semt=robertav1_2_sidr",
                 "ingredients": [
-                    "potatoes",
-                    "chickpeas",
-                    "tamarind chutney",
-                    "yogurt",
-                    "spices"
+                    "1.potatoes ",
+                    "2.chickpeas ",
+                    "3.tamarind chutney ",
+                    "4.yogurt ",
+                    "5.spices "
                 ],
                 "cooking_method": "Boil potatoes and chickpeas, add tamarind chutney, yogurt and spices, and serve as a salad or snack.",
                 "rating": 4.0
@@ -64,13 +64,13 @@
             {
                 "recipe_id": "INC002-R001",
                 "name": "Tandoori Chicken",
-                "picture": "https://example.com/tandoorichicken.jpg",
+                "picture": "https://img.freepik.com/free-photo/closeup-shot-deliciously-prepared-chicken-served-with-onions-chili-sauce_181624-61705.jpg?size=626&ext=jpg&uid=R101399449&ga=GA1.2.205563488.1680186315&semt=robertav1_2_sidr",
                 "ingredients": [
-                    "chicken",
-                    "yogurt",
-                    "ginger-garlic paste",
-                    "spices",
-                    "lemon juice"
+                    "1.chicken ",
+                    "2.yogurt ",
+                    "3.ginger-garlic paste ",
+                    "4.spices ",
+                    "5.lemon juice "
                 ],
                 "cooking_method": "Marinate chicken in yogurt, ginger-garlic paste, spices, and lemon juice. Grill or bake it in a tandoor oven.",
                 "rating": 4.3
@@ -78,13 +78,13 @@
             {
                 "recipe_id": "INC002-R002",
                 "name": "Dal Makhani",
-                "picture": "https://example.com/dalmakhani.jpg",
+                "picture": "https://img.freepik.com/free-photo/traditional-indian-soup-lentils-indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18717.jpg?size=626&ext=jpg&uid=R101399449&ga=GA1.2.205563488.1680186315&semt=robertav1_2_sidr",
                 "ingredients": [
-                    "black lentils",
-                    "red kidney beans",
-                    "butter",
-                    "cream",
-                    "spices"
+                    "1.black lentils ",
+                    "2.red kidney beans ",
+                    "3.butter ",
+                    "4.cream ",
+                    "5.spices "
                 ],
                 "cooking_method": "Boil black lentils and red kidney beans, simmerthem in tomato gravy with butter, cream, and spices, and serve with rice or naan bread.",
                 "rating": 4.1
@@ -92,13 +92,13 @@
             {
                 "recipe_id": "INC002-R003",
                 "name": "Samosas",
-                "picture": "https://example.com/samosas.jpg",
+                "picture": "https://img.freepik.com/free-photo/samsa-samosas-with-meat_658428-358.jpg?size=626&ext=jpg&uid=R101399449&ga=GA1.2.205563488.1680186315&semt=robertav1_2_sidr",
                 "ingredients": [
-                    "potatoes",
-                    "peas",
-                    "spices",
-                    "flour",
-                    "oil"
+                    "1.potatoes ",
+                    "2.peas ",
+                    "3.spices ",
+                    "4.flour ",
+                    "5.oil "
                 ],
                 "cooking_method": "Make a dough with flour and water, fill it with a mixture of mashed potatoes, peas, and spices, and deep-fry until crispy.",
                 "rating": 4.0
@@ -117,13 +117,13 @@
             {
                 "recipe_id": "INC003-R001",
                 "name": "Chicken Biryani",
-                "picture": "https://example.com/chickenbiryani.jpg",
+                "picture": "https://img.freepik.com/free-photo/side-view-multi-colored-rice-with-grilled-chicken-wing-pumpkin-seeds-top_141793-5026.jpg?size=626&ext=jpg&uid=R101399449&ga=GA1.2.205563488.1680186315&semt=robertav1_2_sidr",
                 "ingredients": [
-                    "chicken",
-                    "basmati rice",
-                    "spices",
-                    "yogurt",
-                    "onions"
+                    "1.chicken ",
+                    "2.basmati rice ",
+                    "3.spices ",
+                    "4.yogurt ",
+                    "5.onions "
                 ],
                 "cooking_method": "Marinate chicken in yogurt and spices, and then cook it with basmati rice and fried onions in a sealed pot.",
                 "rating": 4.2
@@ -131,13 +131,13 @@
             {
                 "recipe_id": "INC003-R002",
                 "name": "Aloo Gobi",
-                "picture": "https://example.com/aloogobi.jpg",
+                "picture": "https://img.freepik.com/free-photo/front-view-tasty-meat-soup-with-potatoes-greens-dark-desk-meal-meat-dish-sauce_140725-79118.jpg?size=626&ext=jpg&uid=R101399449&ga=GA1.2.205563488.1680186315&semt=robertav1_2_sidr",
                 "ingredients": [
-                    "potatoes",
-                    "cauliflower",
-                    "onions",
-                    "tomatoes",
-                    "spices"
+                    "1.potatoes ",
+                    "2.cauliflower ",
+                    "3.onions ",
+                    "4.tomatoes ",
+                    "5.spices "
                 ],
                 "cooking_method": "Saute potatoes, cauliflower, onions, and tomatoes with spices until tender.",
                 "rating": 4.0
@@ -145,13 +145,13 @@
             {
                 "recipe_id": "INC003-R003",
                 "name": "Gulab Jamun",
-                "picture": "https://example.com/gulabjamun.jpg",
+                "picture": "https://img.freepik.com/premium-photo/gulab-jamun-indian-dessert-topped-with-pistachio_136354-1769.jpg?size=626&ext=jpg&uid=R101399449&ga=GA1.2.205563488.1680186315&semt=robertav1_2_sidr",
                 "ingredients": [
-                    "milk powder",
-                    "flour",
-                    "sugar",
-                    "cardamom",
-                    "rose water"
+                    "1.milk powder ",
+                    "2.flour ",
+                    "3.sugar ",
+                    "4.cardamom ",
+                    "5.rose water "
                 ],
                 "cooking_method": "Make a dough with milk powder, flour, and water, shape it into balls, deep-fry, and then soak in sugar syrup with cardamom and rose water.",
                 "rating": 4.1
@@ -170,13 +170,13 @@
             {
                 "recipe_id": "INC004-R001",
                 "name": "Paneer Tikka",
-                "picture": "https://example.com/paneertikka.jpg",
+                "picture": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18809.jpg?size=626&ext=jpg&uid=R101399449&ga=GA1.2.205563488.1680186315&semt=robertav1_2_sidr",
                 "ingredients": [
-                    "paneer",
-                    "bell peppers",
-                    "onions",
-                    "spices",
-                    "yogurt"
+                    "1.paneer ",
+                    "2.bell peppers ",
+                    "3.onions ",
+                    "4.spices ",
+                    "5.yogurt "
                 ],
                 "cooking_method": "Marinate paneer, bell peppers, and onions in yogurt and spicesand grill until cooked through.",
                 "rating": 4.3
@@ -184,13 +184,13 @@
             {
                 "recipe_id": "INC004-R002",
                 "name": "Aloo Paratha",
-                "picture": "https://example.com/alooparatha.jpg",
+                "picture": "https://img.freepik.com/free-photo/top-view-pakistani-meal-arrangement_23-2148825100.jpg?size=626&ext=jpg&uid=R101399449&ga=GA1.2.205563488.1680186315&semt=robertav1_2_sidr",
                 "ingredients": [
-                    "potatoes",
-                    "flour",
-                    "spices",
-                    "butter",
-                    "oil"
+                    "1.potatoes ",
+                    "2.flour ",
+                    "3.spices ",
+                    "4.butter ",
+                    "5.oil "
                 ],
                 "cooking_method": "Make a dough with flour and water, fill it with mashed potatoes and spices, and then cook on a griddle with butter and oil.",
                 "rating": 4.1
@@ -198,13 +198,13 @@
             {
                 "recipe_id": "INC004-R003",
                 "name": "Chana Masala",
-                "picture": "https://example.com/chanamasala.jpg",
+                "picture": "https://img.freepik.com/free-photo/bowl-curry-with-bowl-curry-sauce-it_1340-23254.jpg?size=626&ext=jpg&uid=R101399449&ga=GA1.2.205563488.1680186315&semt=robertav1_2_sidr",
                 "ingredients": [
-                    "chickpeas",
-                    "tomatoes",
-                    "onions",
-                    "spices",
-                    "oil"
+                    "1.chickpeas ",
+                    "2.tomatoes ",
+                    "3.onions ",
+                    "4.spices ",
+                    "5.oil "
                 ],
                 "cooking_method": "Saute onions and spices, add chickpeas and tomatoes, and cook until thickened.",
                 "rating": 4.2
@@ -222,13 +222,13 @@
             {
                 "recipe_id": "INC009-R001",
                 "name": "Dal Makhani",
-                "picture": "https://example.com/dalmakhani.jpg",
+                "picture": "https://img.freepik.com/premium-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-background_2829-4749.jpg?size=626&ext=jpg&uid=R101399449&ga=GA1.2.205563488.1680186315&semt=robertav1_2_sidr",
                 "ingredients": [
-                    "black lentils",
-                    "red kidney beans",
-                    "tomatoes",
-                    "cream",
-                    "spices"
+                    "1.black lentils ",
+                    "2.red kidney beans ",
+                    "3.tomatoes ",
+                    "4.cream ",
+                    "5.spices "
                 ],
                 "cooking_method": "Soak lentils and kidney beans, and then cook with tomatoes and spices until soft. Finish with cream.",
                 "rating": 4.7
@@ -236,13 +236,13 @@
             {
                 "recipe_id": "INC009-R002",
                 "name": "Baingan Bharta",
-                "picture": "https://example.com/bainganbharta.jpg",
+                "picture": "https://img.freepik.com/free-photo/top-view-pakistani-food-arrangement_23-2148825109.jpg?size=626&ext=jpg&uid=R101399449&ga=GA1.2.205563488.1680186315&semt=robertav1_2_sidr",
                 "ingredients": [
-                    "eggplant",
-                    "tomatoes",
-                    "onions",
-                    "spices",
-                    "coriander"
+                    "1.eggplant ",
+                    "2.tomatoes ",
+                    "3.onions ",
+                    "4.spices ",
+                    "5.coriander "
                 ],
                 "cooking_method": "Roast eggplant, and then cook with tomatoes and onions until soft. Add spices and coriander.",
                 "rating": 4.2
@@ -250,13 +250,13 @@
             {
                 "recipe_id": "INC009-R003",
                 "name": "Tiramisu",
-                "picture": "https://example.com/tiramisu.jpg",
+                "picture": "https://img.freepik.com/free-photo/slice-chocolate-brownie-with-walnut-vanilla-ice-cream_114579-778.jpg?size=626&ext=jpg&uid=R101399449&ga=GA1.2.205563488.1680186315&semt=robertav1_2_sidr",
                 "ingredients": [
-                    "ladyfingers",
-                    "espresso",
-                    "mascarpone",
-                    "sugar",
-                    "cocoa powder"
+                    "1.ladyfingers ",
+                    "2.espresso ",
+                    "3.mascarpone ",
+                    "4.sugar ",
+                    "5.cocoa powder "
                 ],
                 "cooking_method": "Dip ladyfingers in espresso, and then layer with a mixture of mascarpone and sugar. Finish with cocoa powder.",
                 "rating": 4.6
@@ -275,13 +275,13 @@
             {
                 "recipe_id": "INC006-R001",
                 "name": "Chicken Tikka Masala",
-                "picture": "https://example.com/chickentikkamasala.jpg",
+                "picture": "https://img.freepik.com/premium-photo/tandoori-chicken-grilled-served-mint-sauce-is-classic-indian-dinner-that-marinates-chicken-wing-creamy-yogurt-base-blended-spice-decorate-with-onion-vegetable-sideview_71919-1519.jpg?size=626&ext=jpg&uid=R101399449&ga=GA1.2.205563488.1680186315&semt=robertav1_2_sidr",
                 "ingredients": [
-                    "chicken",
-                    "yogurt",
-                    "spices",
-                    "tomatoes",
-                    "cream"
+                    "1.chicken ",
+                    "2.yogurt ",
+                    "3.spices ",
+                    "4.tomatoes ",
+                    "5.cream "
                 ],
                 "cooking_method": "Marinate chicken in yogurt and spices, grill or bake, and then add to a tomato cream sauce.",
                 "rating": 4.4
@@ -289,13 +289,13 @@
             {
                 "recipe_id": "INC006-R002",
                 "name": "Vegetable Biryani",
-                "picture": "https://example.com/vegetablebiryani.jpg",
+                "picture": "https://img.freepik.com/free-photo/high-angle-pakistan-meal-composition_23-2148821517.jpg?size=626&ext=jpg&uid=R101399449&ga=GA1.2.205563488.1680186315&semt=robertav1_2_sidr",
                 "ingredients": [
-                    "rice",
-                    "vegetables",
-                    "spices",
-                    "yogurt",
-                    "onions"
+                    "1.rice ",
+                    "2.vegetables ",
+                    "3.spices ",
+                    "4.yogurt ",
+                    "5.onions "
                 ],
                 "cooking_method": "Cook rice with vegetables, spices, and yogurt, and then layer with fried onions.",
                 "rating": 4.1
@@ -303,13 +303,13 @@
             {
                 "recipe_id": "INC006-R003",
                 "name": "Gulab Jamun",
-                "picture": "https://example.com/gulabjamun.jpg",
+                "picture": "https://img.freepik.com/free-photo/high-angle-delicious-indian-dessert_23-2149312428.jpg?size=626&ext=jpg&uid=R101399449&ga=GA1.2.205563488.1680186315&semt=robertav1_2_sidr",
                 "ingredients": [
-                    "milk powder",
-                    "flour",
-                    "sugar",
-                    "cardamom",
-                    "saffron"
+                    "1.milk powder ",
+                    "2.flour ",
+                    "3.sugar ",
+                    "4.cardamom ",
+                    "5.saffron "
                 ],
                 "cooking_method": "Mix milk powder, flour, and water into a dough, form into balls, and then fry. Soak in a cardamom and saffron flavored syrup.",
                 "rating": 4.3

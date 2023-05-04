@@ -17,6 +17,7 @@ app.get('/chefs', (req, res) =>{
 
 app.get('/chefs/:id', (req, res) => {
     const id = req.params.id;
+    console.log(id)
     if (id == 0) {
         res.send(chefs)
     }
