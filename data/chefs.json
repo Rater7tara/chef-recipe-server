@@ -5,7 +5,7 @@
         "name": "Sanjeev Kapoor",
         "years_of_experience": 40,
         "num_recipes": 800,
-        "likes": 20000,
+        "likes": "20k",
         "bio": "Sanjeev Kapoor is a famous Indian celebrity chef, entrepreneur and television personality. He is widely known as the 'Chef of the Nation'.",
         "recipes": [
             {
@@ -58,7 +58,7 @@
         "name": "Vikas Khanna",
         "years_of_experience": 20,
         "num_recipes": 500,
-        "likes": 15000,
+        "likes": "15k",
         "bio": "Vikas Khanna is an Indian Michelin starred chef, restaurateur, cookbook writer, and filmmaker. He is one of the most influential chefs in the world.",
         "recipes": [
             {
@@ -111,7 +111,7 @@
         "name": "Ranveer Brar",
         "years_of_experience": 15,
         "num_recipes": 400,
-        "likes": 12000,
+        "likes": "12k",
         "bio": "Ranveer Brar is a well-known Indian chef, television personality, and author. He is widely recognized for his culinary skills and innovative recipes.",
         "recipes": [
             {
@@ -164,7 +164,7 @@
         "name": "Tarla Dalal",
         "years_of_experience": 30,
         "num_recipes": 600,
-        "likes": 18000,
+        "likes": "18k",
         "bio": "Tarla Dalal was a well-known Indian vegetarian cookbook author and chef. She is widely known for her innovative vegetarian recipes.",
         "recipes": [
             {
@@ -269,7 +269,7 @@
         "name": "Madhur Jaffrey",
         "years_of_experience": 40,
         "num_recipes": 800,
-        "likes": 25000,
+        "likes": "25k",
         "bio": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She is widely known for her cookbooks anddocumentaries on Indian cuisine.",
         "recipes": [
             {
